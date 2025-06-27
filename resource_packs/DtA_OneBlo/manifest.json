@@ -1,0 +1,45 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§lDtA One Block For Minecraft 1.21.0",
+    "description": "This add-on fully made by DtA MC or Devansh Trivedi. Hello , I want to make a request to you. I only upload my addons to §aMCPEDL and curse forge§r. If you have downloaded this addon from somewhere else. So inform me on my YouTube channel. I work hard, And some people steal my stuff. ",
+    "uuid": "149e426a-c7e7-11a5-0f39-e65d26033371",
+    "version": [
+      1,
+      13,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "43e7de6f-f5ed-5fb2-3c3f-f7f73d387a0c",
+      "version": [
+        1,
+        13,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "3eb0fca8-05ad-bd38-0afa-1f09c4216f0a",
+      "version": [
+        1,
+        13,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "DtA_MC or Devansh Trivedi"
+    ],
+    "url": "https://discord.com/invite/QrvsK5TJaF"
+  }
+}

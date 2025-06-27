@@ -1,0 +1,14 @@
+
+[
+	
+	{
+		"pack_id" : "7a7c9df4-0f1d-4644-8539-2fcd438cd150",
+		"subpack" : "default",
+		"version" : [ 1, 2, 3 ]
+	},
+	
+	{
+		"pack_id" : "149e426a-c7e7-11a5-0f39-e65d26033371",
+		"version" : [ 1, 13, 0 ]
+	}
+]
